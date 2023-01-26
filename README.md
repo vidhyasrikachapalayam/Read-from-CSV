@@ -18,7 +18,9 @@ End the program.
 
 ## PROGRAM:
 Developed by: vidhyasri.k
+
 RegisterNumber: 22008468
+
 import pandas as pd
 
 df = pd.read_csv("nba.csv")
