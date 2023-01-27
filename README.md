@@ -34,7 +34,8 @@ print("column", len(df.axes[0]))
 print("rows", len(df.axes[1]))
 
 ## OUTPUT:
-![csv.png](./csv.png)
+![csv](https://user-images.githubusercontent.com/119477817/215100323-47ad5415-f4f5-46d4-a3cc-73ad36d26782.png)
+
 
 ## RESULT:
 A python program to read data from CSV files has been created successfully.
